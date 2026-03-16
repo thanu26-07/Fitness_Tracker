@@ -18,7 +18,9 @@ const contents = [
       data: base64ImageFile,
     },
   },
-  { text: "Extract the food name and estimated calories from this image in a JSON object." },
+ { 
+  text: "Identify the food in the image and estimate calories. Also classify it into one of these categories: breakfast, lunch, dinner, snack. Return JSON." 
+},
 ];
 
 const config={

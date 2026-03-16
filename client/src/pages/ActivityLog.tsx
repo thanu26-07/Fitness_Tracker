@@ -10,14 +10,6 @@ import toast from "react-hot-toast"
 
 import api from "../configs/api"
 
-
-
-
-
-
-
-
-
 const ActivityLog = () => {
 
     const {allActivityLogs, setAllActivityLogs} =useAppContext()
