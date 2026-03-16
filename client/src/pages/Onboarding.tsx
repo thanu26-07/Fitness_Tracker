@@ -1,4 +1,4 @@
-import { ArrowLeft, PersonStanding, ScaleIcon, Target, User } from "lucide-react"
+import { ArrowLeft, ArrowRight, PersonStanding, ScaleIcon, Target, User } from "lucide-react"
 import { useState } from "react"
 import toast, { Toaster } from "react-hot-toast"
 import { useAppContext } from "../context/AppContext"
@@ -200,7 +200,7 @@ const Onboarding=() =>{
                          <Button onClick={handleNext} className="max-lg:flex-1 lg:px-10">
                                 <span className="flex items-center justify-center gap-2">
                                     {step === totalSteps ? 'Get Started':'Continue'}
-                                    <ArrowLeft className="w-5 h-5"/>
+                                    <ArrowRight className="w-5 h-5"/>
                         
                                 </span>
 
