@@ -16,7 +16,7 @@ import {
   SunIcon,
   LogOutIcon,
 } from "lucide-react";
-import mockApi from "../assets/mockApi";
+
 import api from "../configs/api";
 
 const goalOptions = [
