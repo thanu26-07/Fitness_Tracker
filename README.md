@@ -105,9 +105,3 @@ npm run develop
 - **Bhupalam Thanuja**
 - **Friend 1**
 - **Friend 2**
-
----
-
-## 📄 License
-
-This project was developed as a **College Major Project** for educational and learning purposes.
