@@ -97,6 +97,7 @@ npm run develop
 - Interactive dashboard with health insights
 - Responsive UI with Dark & Light themes
 - Full-stack architecture using React and Strapi
+  
 
 ---
 
