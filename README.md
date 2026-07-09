@@ -100,8 +100,3 @@ npm run develop
 
 ---
 
-## 👥 Team Members
-
-- **Bhupalam Thanuja**
-- **Friend 1**
-- **Friend 2**
